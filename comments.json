@@ -8,5 +8,20 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1420090400000,
+        "author": "Rick Bailey",
+        "text": "This tutorial is *the bomb*!"
+    },
+    {
+        "id": 1456438746267,
+        "author": "John",
+        "text": "This is my first blog :)"
+    },
+    {
+        "id": 1456438982677,
+        "author": "Cristine",
+        "text": "First Blog"
     }
 ]
